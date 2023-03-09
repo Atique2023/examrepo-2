@@ -1,5 +1,5 @@
 # Different types of fruits
--apple
--banana
--orange
--grapes
+  -apple
+  -banana
+  -orange
+  -grapes
