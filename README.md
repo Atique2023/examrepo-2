@@ -1,1 +1,5 @@
-# examrepo-2
+# Different types of fruits
+-apple
+-banana
+-orange
+-grapes
